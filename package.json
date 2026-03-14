@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "shopify app dev",
+    "dev": "meowapps dev",
     "deploy": "shopify app deploy && meowapps deploy",
     "claude": "meowapps claude",
     "upgrade": "meowapps upgrade"
