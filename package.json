@@ -7,7 +7,7 @@
     "upgrade": "meowapps upgrade"
   },
   "dependencies": {
-    "meowapps": "github:meowapps/meowapps#699434c609a6614e5808bbbafbbf2eb509ba7e3c",
+    "meowapps": "github:meowapps/meowapps#7b47b96b5423b93d7d003f31038a55f0ae20ef05",
     "react": "^19.2.4"
   }
 }
