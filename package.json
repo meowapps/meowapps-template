@@ -1,10 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "dev": "meowapps dev",
-    "deploy": "meowapps deploy",
+    "dev": "shopify app dev",
+    "deploy": "shopify app deploy",
     "claude": "meowapps claude",
-    "upgrade": "node -e \"fs=require('fs');['node_modules','package-lock.json','dist'].forEach(p=>fs.rmSync(p,{recursive:true,force:true}))\" && npm i"
+    "upgrade": "meowapps upgrade"
   },
   "dependencies": {
     "meowapps": "github:meowapps/meowapps",
